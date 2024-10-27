@@ -52,4 +52,4 @@ tmp/
 temp/
 
 # Nest.js specific
-dist/
+dist/db.sqlite
